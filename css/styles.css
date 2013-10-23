@@ -1,0 +1,14 @@
+/* Stylesheet */
+
+footer {
+        background: #663;
+}
+
+section {
+        background: red;
+}
+
+/* Helper Class to Show Grid */
+.showgrid {
+        background: url("../img/12-col-grid.gif") !important;
+}
